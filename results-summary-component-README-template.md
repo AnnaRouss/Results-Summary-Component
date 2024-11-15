@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/AnnaRouss/Results-Summary-Component/edit/main/](https://github.com/AnnaRouss/Results-Summary-Component/edit/main/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:[https://github.com/AnnaRouss/Results-Summary-Component](https://github.com/AnnaRouss/Results-Summary-Component)
+- Live Site URL: [https://annarouss.github.io/Results-Summary-Component/](https://annarouss.github.io/Results-Summary-Component/)
 
 
 
